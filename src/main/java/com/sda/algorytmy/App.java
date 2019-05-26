@@ -50,7 +50,12 @@ public class App
 //
 //
 //        System.out.println( "Hello World......");
-        Zadanie.zad1();
+//
+//        String s = "napis";
+//        Zadanie.zad1();
+//
+        List<Integer> list = new ArrayList<>();
+        list.add(222);
 
     }
 }
